@@ -1,47 +1,49 @@
-# 👋 Hi there, I'm Asmaa!  
+<h1 align="center">✨ Welcome to Asmaa ✨</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Front-End+Developer;Passionate+Learner;Always+Building+%26+Creating)](https://git.io/typing-svg)
-
----
-
-## 🚀 About Me  
-- 🎓 Engineering Student & Future Frontend Engineer  
-- 🌱 Currently learning **React, Sass, and modern JavaScript**  
-- 💻 Interested in **UI/UX, creative web apps, and problem-solving**  
-- ✨ Goal: Build stunning, user-friendly websites  
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=500&lines=Front-End+Developer;Passionate+Learner;Creative+Problem+Solver;Always+Improving+💻" />
+</h3>
 
 ---
 
-## 🛠️ Tech Stack  
-
-<p>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png" alt="Bootstrap">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" alt="Sass">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub">
-</p>  
+### 🚀 About Me  
+- 🌱 I’m currently learning **Front-End Development**  
+- 💡 Always excited to explore **new technologies**  
+- 🎯 Goal: To become a **skilled Front-End Engineer**  
 
 ---
 
-## 📊 GitHub Stats  
+### 🛠️ Tech Stack  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asmaasmka-123&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaasmka-123&layout=compact&theme=radical" height="180">
-</p>  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## 🔗 Connect with Me  
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-  <a href="mailto:yourmail@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>
-  <a href="https://github.com/asmaasmka-123"><img height="30" src="https://cdn-icons-png.flaticon.com/512/733/733609.png"></a>
-</p>  
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asmaasmka-123&show_icons=true&theme=tokyonight" alt="Asmaa's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaasmka-123&theme=tokyonight" alt="streak stats" />
+</p>
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yourmail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
