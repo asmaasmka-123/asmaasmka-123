@@ -40,9 +40,10 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="[[[https://www.linkedin.com](https://www.linkedin.com/in/asmaa-eletrby-938b5225a/)](https://www.linkedin.com/in/asmaa-eletrby-938b5225a/)](https://www.linkedin.com/in/asmaa-abdelnasser-938b5225a/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/asmaa-eletrby-938b5225a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
   <a href="mailto:abdelnasserasmaa94@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
