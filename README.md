@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to Asmaa ✨</h1>
+<h1 align="center">✨ Hi, I’m Asmaa ✨</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=500&lines=Front-End+Developer;Passionate+Learner;Creative+Problem+Solver;Always+Improving+💻" />
